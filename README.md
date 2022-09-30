@@ -2,4 +2,4 @@
 My solutions to hackerRank practice exercises, coding challenges, and other problems on Hackerrank!
 
 My Profile
-[https://www.hackerrank.com/wanguif018](HackerRank)
+(HackerRank)[https://www.hackerrank.com/wanguif018]
