@@ -5,4 +5,4 @@ My Profile:star_struck:
 
 
 
-[HackerRank](https://www.hackerrank.com/wanguif
+[HackerRank](https://www.hackerrank.com/wangui
