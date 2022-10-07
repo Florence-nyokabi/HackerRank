@@ -1,4 +1,4 @@
---Problem 
+--Problem
 /*
 Given a table STATION that holds data for five fields namely ID, CITY, STATE, NORTHERN LATITUDE and WESTERN LONGITUDE.
 +-------------+------------+
