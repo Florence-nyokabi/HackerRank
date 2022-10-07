@@ -5,4 +5,4 @@ My Profile:star_struck:
 
 
 
-[HackerRank](https://www.hackerrank.com/wa
+[HackerRank](https://www.hackerrank.com/w
