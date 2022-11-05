@@ -1,2 +1,2 @@
 # HackerRank
-My solutions to hackerRank practice exercises, coding challenges, and other problems on HackRank!
+My solutions to hackerRank practice exercises, coding challenges, and other problems on HackRa
